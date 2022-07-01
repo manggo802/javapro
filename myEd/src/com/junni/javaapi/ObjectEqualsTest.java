@@ -17,8 +17,7 @@ public class ObjectEqualsTest {
 		} else {
 			System.out.println("name value equals false");
 		}
-		
+
 	}
 
 }
-
